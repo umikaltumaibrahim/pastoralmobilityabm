@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-title: A Bayesian Optimization and Approximate Bayesian Computation Framework for Calibrating Agent-Based Models of Pastoralist Mobility in Dryland Systemsauthors:
+message: If you use the scripts, please cite it as below
 authors:
 - family-names: Ibrahim Mohamed
-- given-names: Umikaltuma
+  given-names: Umikaltuma
+title: "pastoralmobilityabm"
 version: 1.0.0
-date-released: 2026-07-13
-url: "https://github.com/umikaltumaibrahim/pastoralmobilityabm" 
+date-released: 2026-07-12
+url: "https://github.com/umikaltumaibrahim/pastoralmobilityabm"
