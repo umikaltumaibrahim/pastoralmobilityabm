@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: If you use the scripts, please cite it as below
 authors:
 - family-names: Ibrahim Mohamed
-  given-names: Umikaltuma
+- given-names: Umikaltuma
 title: "pastoralmobilityabm"
 version: 1.0.0
 date-released: 2026-07-12
