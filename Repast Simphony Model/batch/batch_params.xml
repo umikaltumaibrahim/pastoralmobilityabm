@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><sweep runs="1">
+    <parameter name="movementStrategy" type="constant" constant_type="java.lang.String" value="PasturePriority_60km"></parameter>
+    <parameter name="dataYear" type="constant" constant_type="java.lang.String" value="19"></parameter>
+    <parameter name="randomSeed" type="constant" constant_type="int" value="1"></parameter>
+    <parameter name="saviThreshold" type="constant" constant_type="double" value="0.05"></parameter>
+    <parameter name="randomWeight" type="constant" constant_type="double" value="0.1"></parameter>
+    <parameter name="visitedWeight" type="constant" constant_type="double" value="0.05"></parameter>
+    <parameter name="numAgents" type="constant" constant_type="int" value="839"></parameter>
+    <parameter name="rainThreshold" type="constant" constant_type="double" value="1.0"></parameter>
+    <parameter name="pMove" type="constant" constant_type="double" value="0.8"></parameter>
+</sweep>
