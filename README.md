@@ -7,6 +7,9 @@ This repository contains the model code for the framework that integrates Bayesi
 - Repast Simphony model
 - Calibration, Validation and Uncertainty Analysis scripts (Bayesian Optimization, Monte Carlo, ABC)
 
+## Implementation
+- Scripts are run sequentially starting in the order of calibration-strategy comparison-uncertainty analysis-validation
+
 ## Data Sources
 
 See manuscript for full citations.
