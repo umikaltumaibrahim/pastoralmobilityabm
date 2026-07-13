@@ -8,7 +8,7 @@ This repository contains the model code for the framework that integrates Bayesi
 ## Contents
 
 - Repast Simphony model
-- Calibration scripts (Bayesian Optimization, Monte Carlo, ABC)
+- Calibration, Validation and Uncertainty Analysis scripts (Bayesian Optimization, Monte Carlo, ABC)
 
 ## Data Sources
 
